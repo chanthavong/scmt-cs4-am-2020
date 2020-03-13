@@ -1,0 +1,53 @@
+/* 
+this is a tag bahbah....
+this is tag comment in css or style
+*/
+body{
+    background-color: #eaebee;
+    padding: 0;
+    margin: 0;
+    
+}
+header{
+    background-color: #4267b2;
+    padding: 10px;
+}
+.fb-icon{
+    background-color: white; 
+    color:#4267b2;
+    padding-left: 5px;
+    padding-top: 3px;
+    padding-bottom: 0;
+    padding-right: 0;
+    border-radius: 3px;
+    font-weight: bold;
+    font-family: tahoma;
+    width: 15px;
+    text-align: right;
+    display: inline-block;
+}
+.txt-search{
+    border-radius: 3px;
+    display: inline-block;
+    padding: 3px 6px;
+    font-family: Saysettha OT;
+}
+.menu{
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.menu li{
+    float: left;
+    margin: 3px;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+}
+.img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
